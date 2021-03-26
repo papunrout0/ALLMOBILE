@@ -1,2 +1,0 @@
-# ALLMOBILE
-Sorvice
